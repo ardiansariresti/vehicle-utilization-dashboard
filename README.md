@@ -33,7 +33,7 @@ The dashboard shows:
 ---
 
 ## 📷 Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 👉 For the full version, see [dashboard.pdf](dashboard.pdf)
 
